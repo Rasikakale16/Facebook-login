@@ -2,6 +2,8 @@ body
 {
     background: linear-gradient(#F6F7FB 0 20% , #F3F4F9 0 25%,#F1F2F7 0 28%,
     #EDF0F7 0 30%,#ECEFF6 0 32%, #EAEDF4  0 100%) ;
+    height:100%;
+    width:100%;
 }
 .header-control
 {
