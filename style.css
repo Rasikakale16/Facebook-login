@@ -207,3 +207,11 @@ height:90px;
     font-size:13px;
     color:#7891e4;
 }
+.policy p
+{
+    color: black;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+    left:300px;
+}
